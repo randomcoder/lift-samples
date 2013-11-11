@@ -1,0 +1,7 @@
+/.cache
+/extsrc
+/console.devmode.log
+
+.idea*/
+target/
+lift_proto.db*
